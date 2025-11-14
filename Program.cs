@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 //configura HttpClient com a base da API
 builder.Services.AddScoped(sp => new HttpClient
 {
-    BaseAddress = new Uri("https://XYZ.azurewebsites.net/")
+    BaseAddress = new Uri("https://rpgapids20252.azurewebsites.net/")
 });
 
 //Inicialização da classe para uso em outras classes

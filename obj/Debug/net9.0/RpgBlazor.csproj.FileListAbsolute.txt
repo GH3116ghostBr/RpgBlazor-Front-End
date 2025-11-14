@@ -79,3 +79,4 @@ C:\Users\gabri\OneDrive\Desktop\Etec - Gabriel\2DS atividades (concluido)\DS\Rpg
 C:\Users\gabri\OneDrive\Desktop\Etec - Gabriel\2DS atividades (concluido)\DS\RpgBlazor\obj\Debug\net9.0\RpgBlazor.csproj.AssemblyReference.cache
 C:\Users\gabri\OneDrive\Desktop\Etec - Gabriel\2DS atividades (concluido)\DS\RpgBlazor\bin\Debug\net9.0\Blazored.LocalStorage.dll
 C:\Users\gabri\OneDrive\Desktop\Etec - Gabriel\2DS atividades (concluido)\DS\RpgBlazor\obj\Debug\net9.0\RpgBlazor.csproj.Up2Date
+C:\Users\gabri\OneDrive\Desktop\Etec - Gabriel\2DS atividades (concluido)\DS\RpgBlazor\obj\Debug\net9.0\RpgBlazor.sourcelink.json

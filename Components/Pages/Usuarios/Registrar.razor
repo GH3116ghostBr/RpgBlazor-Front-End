@@ -27,7 +27,7 @@ else if(!string.IsNullOrEmpty(mensagemErro))
             if (usuarioRetorno.Id != 0)
             {
                 mensagem = "Usuário registrado com sucesso! Redirecionando para o login...";
-                await Task.Delay(5000);
+                await Task.Delay(10000);
                 Navigation.NavigateTo("/usuarios/login");
             }
         }
