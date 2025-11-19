@@ -40,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Gabriel/2DS/DS/RpgBlazor/RpgBlazor-Front-End/Components/Pages/Personagens/Cadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJzb25hZ2Vuc1xDYWRhc3Ryby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Gabriel/2DS/DS/RpgBlazor/RpgBlazor-Front-End/Components/Pages/Personagens/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJzb25hZ2Vuc1xJbmRleC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

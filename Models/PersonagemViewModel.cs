@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using RpgBlazor.Models.Enums;
+using RpgBlazor.Models.Enuns;
 
-namespace RpgBlazor-Front-End.Models
+namespace RpgBlazor.Models
 {
     public class PersonagemViewModel
     {
