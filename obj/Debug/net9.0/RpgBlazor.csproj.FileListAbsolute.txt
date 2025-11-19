@@ -80,3 +80,14 @@ C:\Users\gabri\OneDrive\Desktop\Etec - Gabriel\2DS atividades (concluido)\DS\Rpg
 C:\Users\gabri\OneDrive\Desktop\Etec - Gabriel\2DS atividades (concluido)\DS\RpgBlazor\bin\Debug\net9.0\Blazored.LocalStorage.dll
 C:\Users\gabri\OneDrive\Desktop\Etec - Gabriel\2DS atividades (concluido)\DS\RpgBlazor\obj\Debug\net9.0\RpgBlazor.csproj.Up2Date
 C:\Users\gabri\OneDrive\Desktop\Etec - Gabriel\2DS atividades (concluido)\DS\RpgBlazor\obj\Debug\net9.0\RpgBlazor.sourcelink.json
+D:\Gabriel\2DS\DS\RpgBlazor\RpgBlazor-Front-End\obj\Debug\net9.0\RpgBlazor.csproj.AssemblyReference.cache
+D:\Gabriel\2DS\DS\RpgBlazor\RpgBlazor-Front-End\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Gabriel\2DS\DS\RpgBlazor\RpgBlazor-Front-End\obj\Debug\net9.0\RpgBlazor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabriel\2DS\DS\RpgBlazor\RpgBlazor-Front-End\obj\Debug\net9.0\RpgBlazor.AssemblyInfoInputs.cache
+D:\Gabriel\2DS\DS\RpgBlazor\RpgBlazor-Front-End\obj\Debug\net9.0\RpgBlazor.AssemblyInfo.cs
+D:\Gabriel\2DS\DS\RpgBlazor\RpgBlazor-Front-End\obj\Debug\net9.0\RpgBlazor.csproj.CoreCompileInputs.cache
+D:\Gabriel\2DS\DS\RpgBlazor\RpgBlazor-Front-End\obj\Debug\net9.0\RpgBlazor.MvcApplicationPartsAssemblyInfo.cache
+D:\Gabriel\2DS\DS\RpgBlazor\RpgBlazor-Front-End\obj\Debug\net9.0\RpgBlazor.sourcelink.json
+D:\Gabriel\2DS\DS\RpgBlazor\RpgBlazor-Front-End\obj\Debug\net9.0\RpgBlazor.dll
+D:\Gabriel\2DS\DS\RpgBlazor\RpgBlazor-Front-End\obj\Debug\net9.0\refint\RpgBlazor.dll
+D:\Gabriel\2DS\DS\RpgBlazor\RpgBlazor-Front-End\obj\Debug\net9.0\RpgBlazor.pdb
